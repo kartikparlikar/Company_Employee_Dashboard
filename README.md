@@ -4,8 +4,8 @@ Folks in Human Resources actually deal with a lot of data. This data can be grea
 
 * Total employees of the company, how many left the company and their percentage
 * How many male and how many female are there in our company
-3. How much is the average of the people working in the company and for how many years they work with us
-4. How much salary are we giving in annual, how much goes monthly
-5.How many business units do we have and how many employees are there in which unit
-6. how many departments are there how many people are working in which department and From which country we have hired employees
+* How much is the average of the people working in the company and for how many years they work with us
+* How much salary are we giving in annual, how much goes monthly
+* How many business units do we have and how many employees are there in which unit
+* how many departments are there how many people are working in which department and From which country we have hired employees
 
