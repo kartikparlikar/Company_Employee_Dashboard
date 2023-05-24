@@ -9,3 +9,4 @@ Folks in Human Resources actually deal with a lot of data. This data can be grea
 * How many business units do we have and how many employees are there in which unit
 * how many departments are there how many people are working in which department and From which country we have hired employees
 
+![Company employee dashboard](https://github.com/kartikparlikar/Company_Employee_Dashboard/assets/120629160/f3c8cbbb-bc60-4563-b795-be192e7c252b)
